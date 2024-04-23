@@ -1,5 +1,5 @@
 {
-  "name": "zod2md",
+  "name": "@apaleslimghost/zod2md",
   "version": "0.1.1",
   "description": "Generate Markdown docs from Zod schemas",
   "license": "MIT",
